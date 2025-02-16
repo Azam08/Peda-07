@@ -20636,7 +20636,7 @@ footer .footer-navbar .nav-item:last-child a {
 
 @media (max-width: 576px) {
   header .btn.btn-rounded.btn-large {
-    min-width: 95px;
-    font-size: 10px;
+    min-width: 95px !important;
+    font-size: 10px !important;
   }
 }
